@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "d3-ease": "^1.0.6",
+    "konva": "^4.1.0",
+    "lodash": "^4.17.15",
+    "material-ui": "^0.20.2",
     "next": "9.1.7",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "react-konva": "^16.10.1-0",
+    "react-move": "^6.1.0",
+    "react-sound": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.4",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
   }
 }
